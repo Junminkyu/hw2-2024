@@ -40,7 +40,7 @@ div{
     line-height: 2;
 }
 
-div.red{
+.red{
     background-color: #FF0000;
     text-align: right;
     margin-left:50px;
